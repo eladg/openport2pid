@@ -8,7 +8,7 @@ map and list open port and their process id.
 ## Installation
 
 ```bash
-curl https://github.com/eladg/openport2pid/raw/master/openport2pid > /usr/local/bin/openport2pid
+curl -fsSL https://raw.github.com/eladg/openport2pid/master/openport2pid > /usr/local/bin/openport2pid
 chmod +x /usr/local/bin/openport2pid
 ```
 
